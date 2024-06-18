@@ -1,2 +1,2 @@
 print ("eric chong")
-input("test")
+input("test:")
