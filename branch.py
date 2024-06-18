@@ -1,2 +1,5 @@
 print ("eric chong")
 input ("asdasd: ")
+input ("1: ")
+input ("2: ")
+input ("3: ")
